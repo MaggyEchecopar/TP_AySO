@@ -1,1 +1,2 @@
 Usuario=maggy
+model name	: AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx
