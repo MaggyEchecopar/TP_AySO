@@ -1,0 +1,109 @@
+sudo apt update
+sudo apt install build-essential dkms linux-headers-(uname -r) -y
+cl
+sudo sed -i 1 `/cdrom/d`/etc/apt/sources.list  
+sources.list
+sudo sed -i 1 `/cdrom/d`/etc/apt/sources.list sources.list sudo apt update 
+sudo apt install build/essential dkms linux-headers-$(uname /r) -y
+sudo apt install build/essential dkms linux-headers-$(uname -r) -y
+sudo apt install build-essential dkms linux-headers-$(uname -r) -y
+sudo umount/dev/cdrom
+sudo umount /dev/cdrom
+sudo mount / dev/cdrom/media/cdrom sudo /media/cdrom/ VboxLinuxAdditions.run
+ssh-keygen
+cat $HOME/.ssh/*.pub
+cat~/.ssh/id_ed25519.pub
+ssh-keygen -t ed25519 -C maggui.echecopar@gmail.com
+cat~/.ssh/id_ed25519.pub
+ssh-keygen -t -ed25519 -C}"maggy@github"
+ssh-keygen -t ed25519 -C}"maggy@github"
+cat~/.ssh/id_ed25519.pub
+clear
+ssh-keygen -t ed25519 -C"maggy@github"
+cat~/.ssh/id_ed25519.pub
+cat ~/.ssh/id_ed25519.pub
+clear
+cd
+sudo apt update
+mkdir repogit
+cd repogit
+pwd
+cd repogit
+clear
+cd repogit
+cd
+mkdir repogit
+cd repogit
+clear
+cd repogit
+cd
+mkdir repogit
+cd repogit
+pwd
+ls -l
+git@github.com:MaggyEchecopar/TP_AySO.git
+ls-l
+ls -l
+clear
+git clone [200~git@github.com:MaggyEchecopar/TP_AySO.git~
+git clone git@github.com:MaggyEchecopar/TP_AySO.git
+cd TP_AySO/
+pwd
+ls -l
+cat/etc/os-release
+cat /etc/os-release
+man grep
+-i "hola" archivo.txt
+clear
+man greep
+man grep
+greep -i "hola"
+grep -i "hola"
+clear
+grep -i "home_url" /etc/os-release
+grep -i HOME_URL/etc/os-release
+grep -i HOME_URL /etc/os-release
+whoami
+echo "Usuario=$(whoami)" > datos_usuario.txt
+cat datos_usuario.txt
+git add.
+git add
+git add .
+git config --global user.email "maggui.echecopar@gmail.com"
+git config --global user.name "maggy"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuario.txt"
+git status
+rm case
+git add .
+git commit -m "FIX: borro archivo case extra"
+git status
+git push
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+cat datos_usuario.txt
+git add datos_usuario.txt
+git commit -m "ADD: Añadiendo Readme y datos de usuario
+
+git add datos_usuario.txt
+git commit -m "feat: Añadiendo información de CPU"
+git push
+cat <<EOF >> README.md
+Alumno: Magali Echecopar
+División: 311
+Turno: Noche
+EOF
+
+cat README .md
+cat README.md
+git add README.md datos_usuario.txt
+git commit -m "ADDcat <<EOF >> README.md
+Alumno: Maggy Echecopar
+División: 311
+Turno: Noche
+EO
+
+cat README.md
+git add README.md datos_usuario.tx
+git add README.md datos_usuario.txt
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+history -a
